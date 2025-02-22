@@ -4,7 +4,7 @@ import Home from "./pages/Home";
 import Navbar from "./components/Navbar";
 import Search from "./pages/Search";
 import About from "./pages/About";
-import Upload from "./pages/upload";
+import Upload from "./pages/Upload";
 import Faq from "./pages/Faq";
 import Profile from "./pages/Profile";
 import Login from "./pages/Login";
